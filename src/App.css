@@ -1,0 +1,19 @@
+.form-control{
+  width: 80%;
+  min-height: 100px;
+  margin:20px auto;
+  font-size: 60px;
+}
+/* .btn{
+  display: block;
+  width: 100px;
+  
+} */
+#btnWrapper{
+  width: 650px;
+  margin: auto;
+  
+}
+#btnWrapper button{
+  margin: 0px 5px;
+}
